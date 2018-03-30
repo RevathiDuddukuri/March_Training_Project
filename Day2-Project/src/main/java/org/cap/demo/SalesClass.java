@@ -6,6 +6,7 @@ public class SalesClass {
 int[] arg={12,45,67,90};
 		
 		System.out.println("Show Method");
+		System.out.println("Show Method for Git");
 	}
 
 }
